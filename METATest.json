@@ -1,7 +1,7 @@
 {
     "clientVersionCode": 1,
     "gameFilesVersionCode": 2,
-    "URL_GAME_FILES" : "https://hpfarm.pro/gameMeta.zip",
+    "URL_GAME_FILES" : "http://104.234.180.137/LauncherMobile/gameMeta.zip",
     "URL_GAME_FILES_UPD" : "http://test/LauncherMobile/abc.zip",
     "URL_CLIENT": "http://test/LauncherMobile/gtasanvn.apk"
 }
