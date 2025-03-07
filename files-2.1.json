@@ -1,12 +1,6 @@
 {
     "files": [
         {
-            "name": ".htaccess",
-            "path": ".htaccess",
-            "url": "https://samp-mobile.shop/files/.htaccess",
-            "size": 17
-        },
-        {
             "name": "CINFO.BIN",
             "path": "CINFO.BIN",
             "url": "https://samp-mobile.shop/files/CINFO.BIN",
