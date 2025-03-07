@@ -1919,6 +1919,20 @@
             "gpu": "unc"
         },
         {
+            "name": "form.png",
+            "size": "47175",
+            "path": "texdb/gta3/src/form.png",
+            "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/gta3/src/form.png",
+            "gpu": "all"
+        },
+        {
+            "name": "hp.png",
+            "size": "1378",
+            "path": "texdb/gta3/src/hp.png",
+            "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/gta3/src/hp.png",
+            "gpu": "all"
+        },
+        {
             "name": "gta_int.dxt.dat",
             "size": "13592262",
             "path": "texdb/gta_int/gta_int.dxt.dat",
