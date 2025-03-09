@@ -1724,7 +1724,7 @@
         },
         {
             "name": "gta.dat",
-            "size": "3810",
+            "size": "3789",
             "path": "SAMP/gta.dat",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/SAMP/gta.dat",
             "gpu": "all"
@@ -1815,7 +1815,7 @@
         },
         {
             "name": "gta3.img",
-            "size": "538255360",
+            "size": "283521024",
             "path": "texdb/gta3.img",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/gta3.img",
             "gpu": "all"
@@ -1836,7 +1836,7 @@
         },
         {
             "name": "samp.img",
-            "size": "125665280",
+            "size": "36902912",
             "path": "texdb/samp.img",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/samp.img",
             "gpu": "all"
@@ -1850,77 +1850,77 @@
         },
         {
             "name": "gta3.dxt.dat",
-            "size": "340757262",
+            "size": "185311596",
             "path": "texdb/gta3/gta3.dxt.dat",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/gta3/gta3.dxt.dat",
             "gpu": "dxt"
         },
         {
             "name": "gta3.dxt.tmb",
-            "size": "609052",
+            "size": "525340",
             "path": "texdb/gta3/gta3.dxt.tmb",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/gta3/gta3.dxt.tmb",
             "gpu": "dxt"
         },
         {
             "name": "gta3.dxt.toc",
-            "size": "52192",
+            "size": "49784",
             "path": "texdb/gta3/gta3.dxt.toc",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/gta3/gta3.dxt.toc",
             "gpu": "dxt"
         },
         {
             "name": "gta3.etc.dat",
-            "size": "340757262",
+            "size": "185725552",
             "path": "texdb/gta3/gta3.etc.dat",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/gta3/gta3.etc.dat",
             "gpu": "etc"
         },
         {
             "name": "gta3.etc.tmb",
-            "size": "609052",
+            "size": "575452",
             "path": "texdb/gta3/gta3.etc.tmb",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/gta3/gta3.etc.tmb",
             "gpu": "etc"
         },
         {
             "name": "gta3.etc.toc",
-            "size": "52192",
+            "size": "49784",
             "path": "texdb/gta3/gta3.etc.toc",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/gta3/gta3.etc.toc",
             "gpu": "etc"
         },
         {
             "name": "gta3.pvr.dat",
-            "size": "340757262",
+            "size": "115205762",
             "path": "texdb/gta3/gta3.pvr.dat",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/gta3/gta3.pvr.dat",
             "gpu": "pvr"
         },
         {
             "name": "gta3.pvr.tmb",
-            "size": "609052",
+            "size": "794396",
             "path": "texdb/gta3/gta3.pvr.tmb",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/gta3/gta3.pvr.tmb",
             "gpu": "pvr"
         },
         {
             "name": "gta3.pvr.toc",
-            "size": "52192",
+            "size": "49784",
             "path": "texdb/gta3/gta3.pvr.toc",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/gta3/gta3.pvr.toc",
             "gpu": "pvr"
         },
         {
             "name": "gta3.txt",
-            "size": "825090",
+            "size": "792665",
             "path": "texdb/gta3/gta3.txt",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/gta3/gta3.txt",
             "gpu": "all"
         },
         {
             "name": "gta3.unc.tmb",
-            "size": "1622684",
+            "size": "1457212",
             "path": "texdb/gta3/gta3.unc.tmb",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/gta3/gta3.unc.tmb",
             "gpu": "unc"
@@ -2214,70 +2214,70 @@
         },
         {
             "name": "samp.dxt.dat",
-            "size": "222095284",
+            "size": "22144848",
             "path": "texdb/samp/samp.dxt.dat",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/samp/samp.dxt.dat",
             "gpu": "all"
         },
         {
             "name": "samp.dxt.tmb",
-            "size": "50140",
+            "size": "21376",
             "path": "texdb/samp/samp.dxt.tmb",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/samp/samp.dxt.tmb",
             "gpu": "all"
         },
         {
             "name": "samp.dxt.toc",
-            "size": "8084",
+            "size": "6176",
             "path": "texdb/samp/samp.dxt.toc",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/samp/samp.dxt.toc",
             "gpu": "all"
         },
         {
             "name": "samp.etc.dat",
-            "size": "233079808",
+            "size": "33279656",
             "path": "texdb/samp/samp.etc.dat",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/samp/samp.etc.dat",
             "gpu": "all"
         },
         {
             "name": "samp.etc.tmb",
-            "size": "50140",
+            "size": "21376",
             "path": "texdb/samp/samp.etc.tmb",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/samp/samp.etc.tmb",
             "gpu": "all"
         },
         {
             "name": "samp.etc.toc",
-            "size": "8084",
+            "size": "6176",
             "path": "texdb/samp/samp.etc.toc",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/samp/samp.etc.toc",
             "gpu": "all"
         },
         {
             "name": "samp.pvr.dat",
-            "size": "213934596",
+            "size": "13894248",
             "path": "texdb/samp/samp.pvr.dat",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/samp/samp.pvr.dat",
             "gpu": "all"
         },
         {
             "name": "samp.pvr.tmb",
-            "size": "50140",
+            "size": "21376",
             "path": "texdb/samp/samp.pvr.tmb",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/samp/samp.pvr.tmb",
             "gpu": "all"
         },
         {
             "name": "samp.pvr.toc",
-            "size": "8084",
+            "size": "6176",
             "path": "texdb/samp/samp.pvr.toc",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/samp/samp.pvr.toc",
             "gpu": "all"
         },
         {
             "name": "samp.txt",
-            "size": "116485",
+            "size": "89582",
             "path": "texdb/samp/samp.txt",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/samp/samp.txt",
             "gpu": "all"
@@ -2291,7 +2291,7 @@
         },
         {
             "name": "samp.unc.tmb",
-            "size": "156188",
+            "size": "22528",
             "path": "texdb/samp/samp.unc.tmb",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/samp/samp.unc.tmb",
             "gpu": "all"
@@ -2326,77 +2326,77 @@
         },
         {
             "name": "txd.dxt.dat",
-            "size": "26359024",
+            "size": "7625578",
             "path": "texdb/txd/txd.dxt.dat",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/txd/txd.dxt.dat",
             "gpu": "dxt"
         },
         {
             "name": "txd.dxt.tmb",
-            "size": "66404",
+            "size": "31028",
             "path": "texdb/txd/txd.dxt.tmb",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/txd/txd.dxt.tmb",
             "gpu": "dxt"
         },
         {
             "name": "txd.dxt.toc",
-            "size": "3228",
+            "size": "2376",
             "path": "texdb/txd/txd.dxt.toc",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/txd/txd.dxt.toc",
             "gpu": "dxt"
         },
         {
             "name": "txd.etc.dat",
-            "size": "26359024",
+            "size": "9422056",
             "path": "texdb/txd/txd.etc.dat",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/txd/txd.etc.dat",
             "gpu": "etc"
         },
         {
             "name": "txd.etc.tmb",
-            "size": "66404",
+            "size": "49460",
             "path": "texdb/txd/txd.etc.tmb",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/txd/txd.etc.tmb",
             "gpu": "etc"
         },
         {
             "name": "txd.etc.toc",
-            "size": "3228",
+            "size": "2376",
             "path": "texdb/txd/txd.etc.toc",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/txd/txd.etc.toc",
             "gpu": "etc"
         },
         {
             "name": "txd.pvr.dat",
-            "size": "26359024",
+            "size": "7716880",
             "path": "texdb/txd/txd.pvr.dat",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/txd/txd.pvr.dat",
             "gpu": "pvr"
         },
         {
             "name": "txd.pvr.tmb",
-            "size": "66404",
+            "size": "25204",
             "path": "texdb/txd/txd.pvr.tmb",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/txd/txd.pvr.tmb",
             "gpu": "pvr"
         },
         {
             "name": "txd.pvr.toc",
-            "size": "3228",
+            "size": "2376",
             "path": "texdb/txd/txd.pvr.toc",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/txd/txd.pvr.toc",
             "gpu": "pvr"
         },
         {
             "name": "txd.txt",
-            "size": "57448",
+            "size": "43193",
             "path": "texdb/txd/txd.txt",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/txd/txd.txt",
             "gpu": "all"
         },
         {
             "name": "txd.unc.tmb",
-            "size": "117572",
+            "size": "59636",
             "path": "texdb/txd/txd.unc.tmb",
             "url": "http://104.234.180.137/Mobile/GameFiles-2.1/texdb/txd/txd.unc.tmb",
             "gpu": "unc"
