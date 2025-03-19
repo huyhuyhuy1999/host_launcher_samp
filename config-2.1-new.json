@@ -1,6 +1,6 @@
 {
     "client_config": {
-        "version_code": 105,
+        "version_code": 103,
         "url_launcher": "https://raw.githubusercontent.com/huyhuyhuy1999/host_launcher_samp/refs/heads/main/launcher-2.1.apk",
         "url_cache_files": "https://raw.githubusercontent.com/huyhuyhuy1999/host_launcher_samp/refs/heads/main/files-2.1.json"
     }
