@@ -1,24 +1,10 @@
 {
     "files": [
         {
-            "name": "gtasatelem.set",
-            "size": "392",
-            "path": "gtasatelem.set",
-            "url": "http://15.235.206.69/Mobile/GameFiles-zin/gtasatelem.set",
-            "gpu": "all"
-        },
-        {
             "name": "GTASAMP10.b",
             "size": "195000",
             "path": "GTASAMP10.b",
             "url": "http://15.235.206.69/Mobile/GameFiles-zin/GTASAMP10.b",
-            "gpu": "all"
-        },
-        {
-            "name": "gta_sa.set",
-            "size": "159",
-            "path": "gta_sa.set",
-            "url": "http://15.235.206.69/Mobile/GameFiles-zin/gta_sa.set",
             "gpu": "all"
         },
         {
