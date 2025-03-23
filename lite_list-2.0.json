@@ -1,13 +1,6 @@
 {
     "files": [
         {
-            "name": "Adjustable.cfg",
-            "size": "1584",
-            "path": "Adjustable.cfg",
-            "url": "http://15.235.206.69/Mobile/GameFiles-2.0/Adjustable.cfg",
-            "gpu": "all"
-        },
-        {
             "name": "gtasatelem.set",
             "size": "392",
             "path": "gtasatelem.set",
