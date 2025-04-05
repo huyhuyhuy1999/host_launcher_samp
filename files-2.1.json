@@ -590,21 +590,21 @@
         },
         {
             "name": "txd.unc.tmb",
-            "size": "59636",
+            "size": "113220",
             "path": "texdb/txd/txd.unc.tmb",
             "url": "http://15.235.206.69/Mobile/GameFiles-2.1/texdb/txd/txd.unc.tmb",
             "gpu": "unc"
         },
         {
             "name": "txd.dxt.toc",
-            "size": "2376",
+            "size": "3164",
             "path": "texdb/txd/txd.dxt.toc",
             "url": "http://15.235.206.69/Mobile/GameFiles-2.1/texdb/txd/txd.dxt.toc",
             "gpu": "dxt"
         },
         {
             "name": "txd.etc.tmb",
-            "size": "49460",
+            "size": "65124",
             "path": "texdb/txd/txd.etc.tmb",
             "url": "http://15.235.206.69/Mobile/GameFiles-2.1/texdb/txd/txd.etc.tmb",
             "gpu": "etc"
@@ -618,35 +618,35 @@
         },
         {
             "name": "txd.dxt.dat",
-            "size": "7625578",
+            "size": "23189472",
             "path": "texdb/txd/txd.dxt.dat",
             "url": "http://15.235.206.69/Mobile/GameFiles-2.1/texdb/txd/txd.dxt.dat",
             "gpu": "dxt"
         },
         {
             "name": "txd.etc.toc",
-            "size": "2376",
+            "size": "3164",
             "path": "texdb/txd/txd.etc.toc",
             "url": "http://15.235.206.69/Mobile/GameFiles-2.1/texdb/txd/txd.etc.toc",
             "gpu": "etc"
         },
         {
             "name": "txd.pvr.dat",
-            "size": "7716880",
+            "size": "23189472",
             "path": "texdb/txd/txd.pvr.dat",
             "url": "http://15.235.206.69/Mobile/GameFiles-2.1/texdb/txd/txd.pvr.dat",
             "gpu": "pvr"
         },
         {
             "name": "txd.etc.dat",
-            "size": "9422056",
+            "size": "23189472",
             "path": "texdb/txd/txd.etc.dat",
             "url": "http://15.235.206.69/Mobile/GameFiles-2.1/texdb/txd/txd.etc.dat",
             "gpu": "etc"
         },
         {
             "name": "txd.pvr.toc",
-            "size": "2376",
+            "size": "3164",
             "path": "texdb/txd/txd.pvr.toc",
             "url": "http://15.235.206.69/Mobile/GameFiles-2.1/texdb/txd/txd.pvr.toc",
             "gpu": "pvr"
@@ -660,21 +660,21 @@
         },
         {
             "name": "txd.txt",
-            "size": "43193",
+            "size": "56363",
             "path": "texdb/txd/txd.txt",
             "url": "http://15.235.206.69/Mobile/GameFiles-2.1/texdb/txd/txd.txt",
             "gpu": "all"
         },
         {
             "name": "txd.dxt.tmb",
-            "size": "31028",
+            "size": "65124",
             "path": "texdb/txd/txd.dxt.tmb",
             "url": "http://15.235.206.69/Mobile/GameFiles-2.1/texdb/txd/txd.dxt.tmb",
             "gpu": "dxt"
         },
         {
             "name": "txd.pvr.tmb",
-            "size": "25204",
+            "size": "65124",
             "path": "texdb/txd/txd.pvr.tmb",
             "url": "http://15.235.206.69/Mobile/GameFiles-2.1/texdb/txd/txd.pvr.tmb",
             "gpu": "pvr"
