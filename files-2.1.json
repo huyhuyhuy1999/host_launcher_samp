@@ -1059,7 +1059,7 @@
         },
         {
             "name": "handling.cfg",
-            "size": "64532",
+            "size": "64533",
             "path": "data/handling.cfg",
             "url": "http://15.235.206.69/Mobile/GameFiles-2.1/data/handling.cfg",
             "gpu": "all"
@@ -2298,7 +2298,7 @@
         },
         {
             "name": "handling.cfg",
-            "size": "64532",
+            "size": "64533",
             "path": "SAMP/handling.cfg",
             "url": "http://15.235.206.69/Mobile/GameFiles-2.1/SAMP/handling.cfg",
             "gpu": "all"
