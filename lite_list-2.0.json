@@ -22,13 +22,6 @@
             "gpu": "all"
         },
         {
-            "name": "azvoice.log",
-            "size": "0",
-            "path": "AZVoice/azvoice.log",
-            "url": "http://15.235.206.69/Mobile/GameFiles-Alyn/AZVoice/azvoice.log",
-            "gpu": "all"
-        },
-        {
             "name": "arial_bold.ttf",
             "size": "352224",
             "path": "fonts/arial_bold.ttf",

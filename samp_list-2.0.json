@@ -1,20 +1,6 @@
 {
     "files": [
         {
-            "name": "svlog.txt",
-            "size": "1330",
-            "path": "SAMP/svlog.txt",
-            "url": "http://15.235.206.69/Mobile/GameFiles-Alyn/SAMP/svlog.txt",
-            "gpu": "all"
-        },
-        {
-            "name": "settings.json",
-            "size": "874",
-            "path": "SAMP/settings.json",
-            "url": "http://15.235.206.69/Mobile/GameFiles-Alyn/SAMP/settings.json",
-            "gpu": "all"
-        },
-        {
             "name": "SAMP.ide",
             "size": "89349",
             "path": "SAMP/SAMP.ide",
