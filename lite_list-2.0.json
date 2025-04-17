@@ -407,6 +407,13 @@
             "gpu": "all"
         },
         {
+            "name": "peds.img",
+            "size": "13346816",
+            "path": "texdb/peds.img",
+            "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/peds.img",
+            "gpu": "all"
+        },
+        {
             "name": "gta_int.img",
             "size": "44836864",
             "path": "texdb/gta_int.img",
@@ -447,6 +454,76 @@
             "path": "texdb/player/player.txt",
             "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/player/player.txt",
             "gpu": "all"
+        },
+        {
+            "name": "peds.pvr.toc",
+            "size": "1296",
+            "path": "texdb/peds/peds.pvr.toc",
+            "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/peds/peds.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "peds.etc.toc",
+            "size": "1296",
+            "path": "texdb/peds/peds.etc.toc",
+            "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/peds/peds.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "peds.dxt.tmb",
+            "size": "16816",
+            "path": "texdb/peds/peds.dxt.tmb",
+            "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/peds/peds.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "peds.dxt.toc",
+            "size": "1296",
+            "path": "texdb/peds/peds.dxt.toc",
+            "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/peds/peds.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "peds.pvr.tmb",
+            "size": "16816",
+            "path": "texdb/peds/peds.pvr.tmb",
+            "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/peds/peds.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "peds.pvr.dat",
+            "size": "17104028",
+            "path": "texdb/peds/peds.pvr.dat",
+            "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/peds/peds.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "peds.etc.dat",
+            "size": "17104028",
+            "path": "texdb/peds/peds.etc.dat",
+            "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/peds/peds.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "peds.txt",
+            "size": "15313",
+            "path": "texdb/peds/peds.txt",
+            "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/peds/peds.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "peds.etc.tmb",
+            "size": "16816",
+            "path": "texdb/peds/peds.etc.tmb",
+            "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/peds/peds.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "peds.dxt.dat",
+            "size": "17104028",
+            "path": "texdb/peds/peds.dxt.dat",
+            "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/peds/peds.dxt.dat",
+            "gpu": "dxt"
         },
         {
             "name": "mobile.dxt.tmb",

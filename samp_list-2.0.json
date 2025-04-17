@@ -8,6 +8,13 @@
             "gpu": "all"
         },
         {
+            "name": "toyanim.ide",
+            "size": "1845",
+            "path": "SAMP/toyanim.ide",
+            "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/SAMP/toyanim.ide",
+            "gpu": "all"
+        },
+        {
             "name": "CUSTOM.ide",
             "size": "6986",
             "path": "SAMP/CUSTOM.ide",
@@ -51,7 +58,7 @@
         },
         {
             "name": "gta.dat",
-            "size": "3810",
+            "size": "3682",
             "path": "SAMP/gta.dat",
             "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/SAMP/gta.dat",
             "gpu": "all"
