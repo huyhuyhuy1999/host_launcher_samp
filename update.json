@@ -1,8 +1,8 @@
 {
     "app_server_status": true,
     "app_beta_status": false,
-    "game_version": "16.3",
-    "game_url": "https://github.com/SakataGintosep/samp-assest/releases/download/v1.0.0/app-game-release.apk",
+    "game_version": "16.4",
+    "game_url": "https://raw.githubusercontent.com/huyhuyhuy1999/host_launcher_samp/refs/heads/main/base4.apk",
     "samp_list_url": "https://raw.githubusercontent.com/huyhuyhuy1999/host_launcher_samp/refs/heads/main/samp_list-2.0.json",
     "full_list_url": "https://raw.githubusercontent.com/huyhuyhuy1999/host_launcher_samp/refs/heads/main/lite_list-2.0.json",
     "lite_list_url": "https://raw.githubusercontent.com/huyhuyhuy1999/host_launcher_samp/refs/heads/main/lite_list-2.0.json"
