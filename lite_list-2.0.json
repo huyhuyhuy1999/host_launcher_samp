@@ -401,7 +401,7 @@
         },
         {
             "name": "gta3.img",
-            "size": "560699392",
+            "size": "563310592",
             "path": "texdb/gta3.img",
             "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/gta3.img",
             "gpu": "all"
@@ -730,77 +730,77 @@
         },
         {
             "name": "gta3.dxt.toc",
-            "size": "52500",
+            "size": "52528",
             "path": "texdb/gta3/gta3.dxt.toc",
             "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/gta3/gta3.dxt.toc",
             "gpu": "dxt"
         },
         {
             "name": "gta3.pvr.toc",
-            "size": "52500",
+            "size": "52528",
             "path": "texdb/gta3/gta3.pvr.toc",
             "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/gta3/gta3.pvr.toc",
             "gpu": "pvr"
         },
         {
             "name": "gta3.dxt.tmb",
-            "size": "614380",
+            "size": "614908",
             "path": "texdb/gta3/gta3.dxt.tmb",
             "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/gta3/gta3.dxt.tmb",
             "gpu": "dxt"
         },
         {
             "name": "gta3.etc.dat",
-            "size": "344407174",
+            "size": "343025076",
             "path": "texdb/gta3/gta3.etc.dat",
             "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/gta3/gta3.etc.dat",
             "gpu": "etc"
         },
         {
             "name": "gta3.txt",
-            "size": "829979",
+            "size": "830528",
             "path": "texdb/gta3/gta3.txt",
             "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/gta3/gta3.txt",
             "gpu": "all"
         },
         {
             "name": "gta3.unc.tmb",
-            "size": "1643372",
+            "size": "1645276",
             "path": "texdb/gta3/gta3.unc.tmb",
             "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/gta3/gta3.unc.tmb",
             "gpu": "unc"
         },
         {
             "name": "gta3.pvr.dat",
-            "size": "344407174",
+            "size": "343025076",
             "path": "texdb/gta3/gta3.pvr.dat",
             "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/gta3/gta3.pvr.dat",
             "gpu": "pvr"
         },
         {
             "name": "gta3.dxt.dat",
-            "size": "344407174",
+            "size": "343025076",
             "path": "texdb/gta3/gta3.dxt.dat",
             "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/gta3/gta3.dxt.dat",
             "gpu": "dxt"
         },
         {
             "name": "gta3.etc.toc",
-            "size": "52500",
+            "size": "52528",
             "path": "texdb/gta3/gta3.etc.toc",
             "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/gta3/gta3.etc.toc",
             "gpu": "etc"
         },
         {
             "name": "gta3.etc.tmb",
-            "size": "614380",
+            "size": "614908",
             "path": "texdb/gta3/gta3.etc.tmb",
             "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/gta3/gta3.etc.tmb",
             "gpu": "etc"
         },
         {
             "name": "gta3.pvr.tmb",
-            "size": "614380",
+            "size": "614908",
             "path": "texdb/gta3/gta3.pvr.tmb",
             "url": "https://gtasanvn.com/Mobile/GameFiles-Alyn/texdb/gta3/gta3.pvr.tmb",
             "gpu": "pvr"
